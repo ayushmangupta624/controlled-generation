@@ -50,7 +50,7 @@ Place datasets in the following paths (update paths in the script if needed):
 
 ## Usage
 
-The script `controlled_generation.py` mirrors the original Colab notebook structure directly. Run sections sequentially as needed:
+Run sections sequentially as needed:
 
 1. **Dictionary Creation** — builds word frequency dicts from real-world code-mixed data.
 2. **Base Creation (Prompt A or B)** — calls an LLM to translate and identify switch points.
