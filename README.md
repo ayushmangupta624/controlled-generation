@@ -65,6 +65,8 @@ To change the input sentence or CMD value, update the relevant variables at the 
 
 ## Citation
 
+If you use this code in your work, please cite our paper:
+
 ```bibtex
 @article{gupta2024multilingual,
   title={Multilingual Controlled Generation And Gold-Standard-Agnostic Evaluation of Code-Mixed Sentences},
